@@ -378,5 +378,14 @@
     "color": "slate",
     "interval": 1800000,
     "title": "今日最热"
+  },
+  "youtube": {
+    "redirect": "YouTube",
+    "name": "YouTube,
+    "column": "tech",
+    "home": "https://youtube.com/",
+    "color": "slate",
+    "interval": 600000,
+    "title": "最新分享"
   }
 }
